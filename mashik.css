@@ -1,0 +1,44 @@
+*{margin: 0;
+padding: 0;}
+div{
+    text-align:center;
+}
+.usti{
+    height: 100px;
+    background-color: cornsilk;
+    color:rgb(7, 59, 59);
+    font-size:50px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    
+
+}
+.asti{
+    height: 100px;
+    background-color: blueviolet;
+    color:white;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.qaytish{
+    position: fixed;
+    top:300px;
+    border: 4px solid blue;
+
+}
+body{
+    background-image: url('2.jpg');
+    background-size:cover;
+    background-attachment: fixed;
+}
+p{color:black;
+font-size: 30px;
+
+
+    display:flex;
+}
+body{ border:10px solid rgb(18, 196, 196);
+    }
